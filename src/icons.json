@@ -51,6 +51,9 @@
     "_asm": {
       "iconPath": "../icons/Spade.webp"
     },
+    "_al": {
+      "iconPath": "../icons/Super_combat_potion(4).webp"
+    },
     "_cpp": {
       "iconPath": "../icons/Dragon_dagger_pp.webp"
     },
@@ -231,6 +234,7 @@
   },
   "fileExtensions": {
     "asm"     : "_asm",
+    "al"      : "_al",
     "cpp"     : "_cpp",
     "hpp"     : "_hpp",
     "c"       : "_c",
